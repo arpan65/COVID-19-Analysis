@@ -19,8 +19,8 @@ Which are the regions where death cases are reported?
               
 ## Data
 
-https://github.com/CSSEGISandData/COVID-19
-
+https://github.com/CSSEGISandData/COVID-19                                                                             
+https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset                                                           
 ## Files
 Notebook : python code to analysis covid-19 data using plotly                                                
 Data: dataset (latest updated on 07/03/2020)
