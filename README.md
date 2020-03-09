@@ -25,7 +25,8 @@ https://github.com/CSSEGISandData/COVID-19
 Notebook : python code to analysis covid-19 data using plotly                                                
 Data: dataset (latest updated on 07/03/2020)
 Screenshots: screeenshot of the notebook
-
+# Outbreak
+<img src="confirmed.PNG">
 # License
 Apache 2.0
 
